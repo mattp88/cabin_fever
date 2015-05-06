@@ -7,4 +7,5 @@ Here ya go.
 
 
 # About
-* Rails 4, because why not
+* Rails 4?
+* React and ES6?
